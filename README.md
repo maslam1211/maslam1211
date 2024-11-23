@@ -29,10 +29,10 @@
 <br>
 <h4 align="center"> Connect with me</h4>
 <p align="center">
-   <a target="_blank" href="https://www.linkedin.com/in/muhammed-aslam-t-a19567207//">
+   <a target="_blank" href="https://www.linkedin.com/in/muhammed-aslam-t-a19567207/">
     <img align="center" alt="LinkdeIN" width="auto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
-   <a target="_blank" href="https://www.instagram.com/4._khil._/">
+   <a target="_blank" href="https://www.instagram.com/muhdaslamt/">
   <img align="center" alt="Instagram" width="auto" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
    </a>
    <a target="_blank" href="mailto:akhilraj20801@gmail.com">
