@@ -35,7 +35,7 @@
    <a target="_blank" href="https://www.instagram.com/muhdaslamt/">
   <img align="center" alt="Instagram" width="auto" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
    </a>
-   <a target="_blank" href="mailto:akhilraj20801@gmail.com">
+   <a target="_blank" href="mailto:aslamsalman1211@gmail.com">
   <img align="center" alt="Gmail" width="92px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
    </a>
 </p>
