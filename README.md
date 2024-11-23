@@ -29,7 +29,7 @@
 <br>
 <h4 align="center"> Connect with me</h4>
 <p align="center">
-   <a target="_blank" href="https://www.linkedin.com/in/akhil-raj-0b9365284/">
+   <a target="_blank" href="[https://www.linkedin.com/in/akhil-raj-0b9365284/](https://www.linkedin.com/in/muhammed-aslam-t-a19567207/)">
     <img align="center" alt="LinkdeIN" width="auto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
    <a target="_blank" href="https://www.instagram.com/4._khil._/">
